@@ -6,11 +6,11 @@
 
 <br/>
 
-- :heart_eyes:      &nbsp;I'm a Web Application Developer
+- :heart_eyes:      &nbsp;&nbsp;&nbsp;I'm a Web Application Developer
 - :technologist:    Exploring new technologies and developing software solutions
-- :baggage_claim:   &nbsp;Front-end Developer
-- :books:           &nbsp;I like reading book at freetime and trying out lastest technology trends
-- :envelope:        &nbsp;How to reach me **hoangntu56@gmail.com**
+- :baggage_claim:   &nbsp;&nbsp;&nbsp;Front-end Developer
+- :books:           &nbsp;&nbsp;&nbsp;I like reading book at freetime and trying out lastest technology trends
+- :envelope:        &nbsp;&nbsp;&nbsp;How to reach me **hoangntu56@gmail.com**
 
 ## :hammer_and_wrench: Skills
 
