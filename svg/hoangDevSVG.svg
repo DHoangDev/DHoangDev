@@ -1,0 +1,8 @@
+<style>
+.container {
+    max-width: 768px;
+    background-color: #111c2e;
+}
+</style>
+
+<div class="container"></div>

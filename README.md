@@ -1,7 +1,10 @@
-:wave: Hello There !! :wave:
-____________________________________________________________________________________________________________
+<div>
+<img src="svg/hoangDevSVG.svg">
+</div>
 
-:a: About Me
+:wave: Hello There !! :wave:
+
+About Me
 - :smiley: I'm a Web Application Developer at freedom
 - :heart_eyes: Exploring new technologies and developing software solutions
 - :baggage_claim: Front-end Developer
