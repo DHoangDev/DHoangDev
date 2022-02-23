@@ -1,10 +1,10 @@
-<div>
-<img src="svg/hoangDevSVG.svg">
-</div>
+<a>
+    <img src="svg/hoangDevSVG.svg" width="1200px">
+</a>
 
 :wave: Hello There !! :wave:
 
-About Me
+:man: About Me
 - :smiley: I'm a Web Application Developer at freedom
 - :heart_eyes: Exploring new technologies and developing software solutions
 - :baggage_claim: Front-end Developer
