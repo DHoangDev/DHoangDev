@@ -6,11 +6,11 @@
 
 <br/>
 
-- :heart_eyes: I'm a Web Application Developer
+- :heart_eyes:  I'm a Web Application Developer
 - :technologist: Exploring new technologies and developing software solutions
-- :baggage_claim: Front-end Developer
-- :books: I like reading book at freetime and trying out lastest technology trends
-- :envelope: How to reach me **hoangntu56@gmail.com**
+- :baggage_claim:  Front-end Developer
+- :books:  I like reading book at freetime and trying out lastest technology trends
+- :envelope:  How to reach me **hoangntu56@gmail.com**
 
 ## :hammer_and_wrench: Skills
 
@@ -62,7 +62,6 @@ Database and Tools
     <a href="#">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DHoangDev&theme=react-dark&point=fff" />
     </a>
-
 </div>
 
 <br/>
