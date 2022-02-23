@@ -1,7 +1,8 @@
 <p>Hello There !! :wave:</p>
 <hr>
+
 :information_source: About Me
-- :smiley: I'm a Web Application Developer at freedom
+- :smiley: I'm a Web Application Developer at freedom <>
 - :heart_eyes: Exploring new technologies and developing software solutions
 - :baggage_claim: Front-end Developer
 - :books: I like reading book at freetime and trying out lastest technology trends
