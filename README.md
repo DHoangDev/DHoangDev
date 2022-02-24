@@ -2,19 +2,19 @@
     <img src="svg/hoangDevSVG.svg" width="100%"></img>
 </a>
 
+<br/>
+
 ## :man: About Me
 
-<br/>
-
-- :heart_eyes:      &nbsp;&nbsp;I'm a Web Application Developer
+- :heart_eyes:      I'm a Web Application Developer
 - :technologist:    Exploring new technologies and developing software solutions
-- :baggage_claim:   &nbsp;&nbsp;Front-end Developer
-- :books:           &nbsp;&nbsp;I like reading book at freetime and trying out lastest technology trends
-- :envelope:        &nbsp;&nbsp;How to reach me **hoangntu56@gmail.com**
+- :baggage_claim:   Front-end Developer
+- :books:           I like reading book at freetime and trying out lastest technology trends
+- :envelope:        How to reach me **hoangntu56@gmail.com**
+
+<br/>
 
 ## :hammer_and_wrench: Skills
-
-<br/>
 
 Front-end
 
@@ -44,20 +44,18 @@ Database and Tools
     <span><img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F7DF1E"></span>
 </p>
 
-## :chart: GitHub Stats
-
 <br/>
+
+## :chart: GitHub Stats
 
 <div align="center">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHoangDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=default&border_color=61dafb&hide_border=true" />
     </a>
     <br/>
-    <br/>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=DHoangDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    <br/>
     <br/>
     <a href="#">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DHoangDev&theme=react-dark&point=fff" />
@@ -67,8 +65,6 @@ Database and Tools
 <br/>
 
 ## :book: Random Quotes
-
-<br/>
 
 <div align="center">
 
