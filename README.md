@@ -32,8 +32,8 @@ Front-end
 Back-end
 
 <p>
-    <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=F7DF1E"></span>
-    <span><img src="https://img.shields.io/badge/.Net-282C34?logo=.Net&logoColor=F7DF1E"></span>
+    <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=339933"></span>
+    <span><img src="https://img.shields.io/badge/.Net-282C34?logo=.Net&logoColor=512BD4"></span>
 </p>
 
 Database and Tools
@@ -41,7 +41,7 @@ Database and Tools
 <p>
     <span><img src="https://img.shields.io/badge/MySql-282C34?logo=MySql&logoColor=4479A1"></span>
     <span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37"></span>
-    <span><img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F7DF1E"></span>
+    <span><img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032"></span>
 </p>
 
 <br/>
