@@ -7,7 +7,7 @@
 ## :man: About Me
 
 - :heart_eyes:      I'm a Web Application Developer
-- :technologist:    Exploring new technologies and developing software solutions
+- :computer:    Exploring new technologies and developing software solutions
 - :baggage_claim:   Front-end Developer
 - :books:           I like reading book in the freetime and trying out lastest technology trends
 - :envelope:        How to reach me **hoangntu56@gmail.com**
