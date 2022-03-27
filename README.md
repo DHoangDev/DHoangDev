@@ -64,13 +64,13 @@ Database and Tools
 
 <br/>
 
-## :book: Random Quotes
+<!--## :book: Random Quotes
 
 <div align="center">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=Redressed)
 
-</div>
+</div>-->
 
 <!--
 **DHoangDev/DHoangDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
