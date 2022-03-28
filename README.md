@@ -46,7 +46,7 @@ Database and Tools
 
 <br/>
 
-## Programming Languages
+## :computer: Programming Languages
 
 <div align="center">
     <a href="#">
