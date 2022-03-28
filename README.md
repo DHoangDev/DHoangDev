@@ -46,16 +46,26 @@ Database and Tools
 
 <br/>
 
-## :chart: GitHub Stats
+## Programming Languages
 
 <div align="center">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHoangDev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=default&border_color=61dafb&hide_border=true" />
     </a>
+</div>
+
+## :clipboard: GitHub Stats
+
+<div align="center">
     <br/>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=DHoangDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
+</div>
+
+## :chart: Activities
+
+<div>
     <br/>
     <a href="#">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DHoangDev&theme=react-dark&point=fff" />
