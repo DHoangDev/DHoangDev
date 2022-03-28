@@ -57,7 +57,6 @@ Database and Tools
 ## :clipboard: GitHub Stats
 
 <div align="center">
-    <br/>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=DHoangDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
@@ -66,7 +65,6 @@ Database and Tools
 ## :chart: Activities
 
 <div>
-    <br/>
     <a href="#">
         <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DHoangDev&theme=react-dark&point=fff" />
     </a>
