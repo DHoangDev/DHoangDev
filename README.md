@@ -39,6 +39,7 @@ Back-end
 Database and Tools
 
 <p>
+    <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=CC2927"></span>
     <span><img src="https://img.shields.io/badge/MySql-282C34?logo=MySql&logoColor=4479A1"></span>
     <span><img src="https://img.shields.io/badge/Postman-282C34?logo=Postman&logoColor=FF6C37"></span>
     <span><img src="https://img.shields.io/badge/Git-282C34?logo=Git&logoColor=F05032"></span>
